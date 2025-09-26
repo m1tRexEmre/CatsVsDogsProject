@@ -1,4 +1,4 @@
-# CatsVsDogsProject
+# CatsVsDogsProject Repo
 Bu repo, Kaggle üzerinde bulunan Cats vs Dogs veri seti kullanılarak geliştirilmiş bir görüntü sınıflandırma projesini içermektedir. CNN tabanlı derin öğrenme modelleri ile kedi ve köpek görselleri ayrıştırılmış ve projede açıklanmıştır.
 
 ## GİRİS
