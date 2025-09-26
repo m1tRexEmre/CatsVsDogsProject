@@ -27,7 +27,8 @@ PROJE KAPSAMINDA;
 
 - İki tane CNN mimarisi denendi ve Grad Cam için last_conv katmanı eklendi.
    
-<img width="427" height="184" alt="image" src="https://github.com/user-attachments/assets/475febd0-cf72-4296-a726-b465d3832740" />
+<img width="509" height="259" alt="image" src="https://github.com/user-attachments/assets/8dd1da4b-15c9-48b7-b493-8579ebc2d5d7" />
+
 
 
 
