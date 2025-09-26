@@ -15,7 +15,7 @@ PROJE KAPSAMINDA;
 
 ## METRİKLER
 
-- Elde edilen sonuçlara göre modelin doğruluk oranı %84 olarak çıktı.
+- Elde edilen sonuçlara göre modelin doğruluk oranı %78 olarak çıktı.
 - Confusion Matrix görselleştirildi.
 - Overfitting'i azaltma amaçlı dropout uygulandı.
 
@@ -34,7 +34,7 @@ PROJE KAPSAMINDA;
 
 ## Sonuç ve Gelecek Çalışmalar
 
-- Bu proje sonucunda CNN tabanlı görüntü sınıflandırma modeli oluşturuldu. %84 başarı elde edildi. 
+- Bu proje sonucunda CNN tabanlı görüntü sınıflandırma modeli oluşturuldu. %78 başarı elde edildi. 
 
 - Gelecekteki çalışmalar için veri arttırma yöntemleri, daha yüksek doğruluk için hiperparametre optimizasyonunda geliştirmeler ve streamlit vb. tabanlı bir kullanıcı arayüzü ile modelin deploy edilmesi amaçlanmaktadır. 
 
