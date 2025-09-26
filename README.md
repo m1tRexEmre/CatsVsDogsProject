@@ -40,5 +40,5 @@ PROJE KAPSAMINDA;
 
 ## Linkler
 - [[https://www.kaggle.com/code/emreciftcitr/catsvsdogs-al-mas](https://www.kaggle.com/code/emreciftcitr/dogsandcatsproject/notebook)](https://www.kaggle.com/code/emreciftcitr/dogsandcatsproject)
-
+- https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
