@@ -38,6 +38,6 @@ PROJE KAPSAMINDA;
 - Gelecekteki çalışmalar için veri arttırma yöntemleri, daha yüksek doğruluk için hiperparametre optimizasyonunda geliştirmeler ve streamlit vb. tabanlı bir kullanıcı arayüzü ile modelin deploy edilmesi amaçlanmaktadır. 
 
 ## Linkler
-- https://www.kaggle.com/code/emreciftcitr/catsvsdogs-al-mas
+- [https://www.kaggle.com/code/emreciftcitr/catsvsdogs-al-mas](https://www.kaggle.com/code/emreciftcitr/dogsandcatsproject/notebook)
 
 
