@@ -5,6 +5,7 @@ Bu repo, Kaggle üzerinde bulunan Cats vs Dogs veri seti kullanılarak geliştir
 Bu projede, Kaggle Cats vs Dogs veri seti kullanılmıştır.
 Veri seti eğitim, doğrulama ve test kısımlarına ayrılmıştır.
 Amaç, bir görselin kedi mi yoksa köpek mi olduğunu tespit eden bir model geliştirmektir.
+Bu proje, bir supervised projedir.
 
 PROJE KAPSAMINDA;
 
